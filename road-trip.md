@@ -5,7 +5,7 @@ Road Trip With Google Street View
   3. street-view-panorama
   4. places-auto-complete
 
-You need a map.
+You need a map to find any places.
 
     <map zoom="18" center="current-position">
     </map>
